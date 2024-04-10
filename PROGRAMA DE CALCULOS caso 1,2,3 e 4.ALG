@@ -42,6 +42,7 @@ leia(altura)
   area <- (largura*altura)/2
   escreval("a área do triângulo é: ",area)
   caso 3
+  escreval("este projeto está dentro do github")
   //cálculo de área do círculo
   //considerar pi = 3,1415
   //fórmula: a= 2 * pi * raio
