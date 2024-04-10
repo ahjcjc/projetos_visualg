@@ -21,6 +21,7 @@ escreval("3 - cálculo de área de círculo")
 escreval("4 - cálculo de área de IMC")
 escreva("opção: ")
 leia(menu)
+escreval("este projeto esta no github")
 
 escolha menu
   caso 1
